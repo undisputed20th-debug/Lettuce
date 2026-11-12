@@ -14,11 +14,4 @@ print("C) He controld and manuipulated the events of the clone wars while stayin
 # D) He really wasn't the villain of the clone wars
 print("D) He really wasn't the Villain of the clone wars")
 # E) Jar Jar binks wanted to be the hero but instead made it worse
-print("E) Jar Jar binks wanted to be the hero but instead made it worse")
-# F) He was driven by his own selfish desires and wanted to rule the galaxy
-print("F) He was driven by his own selfish desires and wanted to rule the galaxy")
-# G ) None of the above
-print("G) None of the above")
-
-
-userAnswer1 = input("What is the correct answer?...")
+print("E) Jar Jar binks wanted to be the
